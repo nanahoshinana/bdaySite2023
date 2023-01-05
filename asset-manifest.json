@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.3eb9a21b.css",
-    "main.js": "/static/js/main.f04c5b07.js",
+    "main.css": "/static/css/main.15d5a8ba.css",
+    "main.js": "/static/js/main.d00ceca3.js",
     "static/js/787.4dde3ed6.chunk.js": "/static/js/787.4dde3ed6.chunk.js",
+    "static/media/BustUpKei.png": "/static/media/BustUpKei.4bcb8ebace5842e8f6c0.png",
+    "static/media/FullbodyKei_flip.png": "/static/media/FullbodyKei_flip.66d9e9a972353bf351dc.png",
     "static/media/FixtU18UUAEnGoM.jpg": "/static/media/FixtU18UUAEnGoM.01d56bf7f7402969dbaa.jpg",
     "static/media/art_Matahari.png": "/static/media/art_Matahari.3b190988987cff672689.png",
     "static/media/FixtTtrVIAINPlE.jpg": "/static/media/FixtTtrVIAINPlE.3abd104ee1defb04fad7.jpg",
     "static/media/FixtSc2VUAAoSwL.jpg": "/static/media/FixtSc2VUAAoSwL.5ed2387776b06168291b.jpg",
     "static/media/FixtVtaVEAAEdKp.jpg": "/static/media/FixtVtaVEAAEdKp.c9f1cac1e388de03ff07.jpg",
     "index.html": "/index.html",
-    "main.3eb9a21b.css.map": "/static/css/main.3eb9a21b.css.map",
-    "main.f04c5b07.js.map": "/static/js/main.f04c5b07.js.map",
+    "main.15d5a8ba.css.map": "/static/css/main.15d5a8ba.css.map",
+    "main.d00ceca3.js.map": "/static/js/main.d00ceca3.js.map",
     "787.4dde3ed6.chunk.js.map": "/static/js/787.4dde3ed6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3eb9a21b.css",
-    "static/js/main.f04c5b07.js"
+    "static/css/main.15d5a8ba.css",
+    "static/js/main.d00ceca3.js"
   ]
 }
